@@ -27,7 +27,7 @@ Le projet est organisé en plusieurs dossiers :
 
 ## Application 
 
-Pour lancer l'application, il faut se placer dans le dossier `model.py` et lancer le fichier.
+Pour lancer l'application, il faut se placer dans le fichier `model.py` et le lancer.
 
 
 ## License
